@@ -1,0 +1,64 @@
+Programação:
+	    Para R ou Python:
+		- Fluência na sintaxe básica;
+		- Métodos e pacotes para leitura e escrita de dados;
+		- Fluência nos principais pacotes de machine learning, como:
+			Python: sklearn
+			R: caret, mlr
+
+Estatística Básica:
+		   - Variáveis aleatórias contínuas e discretas;
+		   - Função densidade de probabilidade e distribuição acumulada;
+		   - Propriedades de distribuições: médias, medianas, quartis, moda, variância, etc;
+		   - Testes de hipótese;
+		   - Principais distribuições: normal, bernoulli, binomial, uniforme, poisson, geométrica.
+
+Álgebra:
+	- Matrizes e vetores;
+	- Álgebra matricial;
+	- Distâncias e produto interno.
+
+Avaliação de modelos:
+		     - Métricas de avaliação de modelos: KS, Gini, AUX, RMSE, MAE, F1, Recall, Precision, R2;
+		     - Validação holdout, leave one out, k-fold, out of sample, out of time.
+
+Data Prep:
+	  - kmeans / k-medoids;
+	  - dbscan;
+	  - Algoritmos hierárquicos;
+	  - Estratégias de definição do número de clusters (joelho/elbow, silhueta, distância intra-cluster, etc);
+	  - Gaussian mixture models.
+
+Classificação:
+	      - Regressão logística;
+	      - Naive Bayes (gaussiano x bernoulli);
+	      - Knn;
+	      - Árvore de classificação;
+	      - Random forest;
+	      - Estratégias de Boosting: Gradient Boosting, ADA Boosting, etc;
+	      - Redes neurais;
+	      - SVM.
+
+Regressão:
+	  - Regressão linear;
+	  - Regularização L1 e L2;
+	  - Árvore de regressão;
+	  - Análise de resíduos.
+
+Banco de Dados:
+	       - Modelo de banco de dados relacional;
+	       - Sintaxe de SQL;
+	       - Álgebra relacional: join, goup by, order by, etc;
+	       - Chaves primárias, secundárias e estrangeiras.
+
+Outros (conhecimentos básicos):
+			       - Hadoop e Hive;
+			       - Spark e Pyspark;
+			       - Redes complexas e teoria de grafos;
+			       - Ensemble modeling;
+			       - Análise de séries temporais;
+			       - Detecção de anomalia;
+			       - Text mining;
+			       - Deep learning e tensor flow;
+			       - Reconhecimento de imagens;
+			       - Speech analytics.

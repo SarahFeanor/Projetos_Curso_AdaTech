@@ -1,0 +1,63 @@
+------------------------------------------------------ CATÁLOGO DE CURSOS -------------------------------------------------------
+
+Computação:
+	   - Python Programmer: datacamp.com/tracks/python-programmer
+	   - Python Advanced: nyu-cds.github.io/courses/advanced/
+	   - R Programmer: datacamp.com/tracks/r-programmer
+	   - R Advanced: adv-r.had.co.nz
+	   - Algorithms Toolbox: coursera.org/learn/algorithmic-toolbox
+	   - Algorithms on Graphs: coursera.org/learn/algorithms-on-graphs
+	   - Data Structures: coursera.org/learn/data-structures
+	   - Algorithms on Strings: coursera.org/learn/algorithms-on-strings
+	   - Advanced Algorithms and Complexity: coursera.org/learn/advanced-algorithms-and-complexity
+
+Matemática & Estatística:
+			 - Matrix Computations: ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+			 - Linear Algebra: ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+			 - Matrix Decomposition: ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+			 - Introduction to Probability and Data: coursera.org/learn/probability-intro
+			 - Inferential Statistics: coursera.org/learn/inferential-statistics-intro
+			 - Bayesian Statistics: coursera.org/learn/bayesian
+			 - Linear Regression and Modeling: coursera.org/learn/linear-regression-model
+			 - Statistics with R Capstone: coursera.org/learn/statistics-project
+
+Otimização:
+	   - Fundamentals of Optimization: stat.cmu.edu/~ryantibs/convexopt/
+	   - First-order Optimization Methods: stat.cmu.edu/~ryantibs/convexopt/
+	   - Optimality and Duality: stat.cmu.edu/~ryantibs/convexopt/
+	   - Second-order Optimization Methods: stat.cmu.edu/~ryantibs/convexopt/
+	   - Special Topics of Optimization: stat.cmu.edu/~ryantibs/convexopt/
+
+Machine Learning:
+		 - Machine Learning Basic: developers.google.com/machine-learning/crash-course/
+		 - Machine Learning Intermediate: online.stanford.edu/lagunita-learning-platform
+		 - Machine Learning Advanced: coursera.org/specializations/aml
+		 - Natural Networks and Deep Learning: coursera.org/learn/neural-networks-deep-learning
+		 - Improving Deep Neural Networks: coursera.org/learn/deep-neural-network
+		 - Convolutional Neural Networks: coursera.org/learn/convolutional-neural-networks
+
+Banco de Dados & Big Data:
+			  - SQL for Data Science: coursera.org/learn/sql-for-data-science
+			  - Introduction to Databases: web.stanford.edu/class/cs145/
+			  - Database Design: udemy.com/database-design/
+			  - Big Data Introduction: coursera.org/learn/big-data-introduction
+			  - Big Data Concepts: udemy.com/master-apache-hadoop/
+			  - Big Data Algorithms: sketchingbigdata.org
+			  - Hadoop: udemy.com/course/master-apache-hadoop/
+			  - Spark: developintelligence.com/catalog/big-data/apache-spark/advanced-spark/
+			  - Impala: udemy.com/course/master-apache-hadoop
+
+Dados Não Estruturados & Redes Complexas:
+					 - Intro on Unstructured Data: coursera.org/learn/nlp-sequence-models
+					 - Text Mining: amazon.com/Deep-Text-Analytics-Information-Overload/dp/1573875295
+					 - Natural Language Processing: nlp.stanford.edu/fsnlp/
+					 - Audio Processing: perso.telecom-paristech.fr/essid/ces_ds/audio-analysis-lecture_2017.pdf
+					 - Image Processing: cs231n.stanford.edu
+					 - Probabilistic Graphical Models Representation: coursera.org/learn/probabilistic-graphical-models
+					 - Probabilistic Graphical Models Inference: coursera.org/learn/probabilistic-graphical-models-2-inference
+					 - Probabilistic Graphical Models Learning: coursera.org/learn/probabilistic-graphical-models-3-learning
+
+Habilitação de Cientista de Dados: Linguagem de Programação, Álgebra Linear, Estatística, Machine Learning, Banco de Dados e Big Data
+
+Hardcore: Python Programmer + R Programmer, Matrix Computations + Linear Algebra, Introduction to Probability and Data + Linear Regression Modeling,
+          Machine Learning Basic + Machine LEarning Intermediate, Introduction to Database + SQL for Data Science.

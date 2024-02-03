@@ -1,0 +1,8 @@
+Este é um arquivo de exemplo.
+Aqui estão algumas linhas de texto.
+Vamos escrever mais algumas coisas.
+
+Informações Adicionais:
+Número de linhas: 3
+Número de palavras: 17
+Número de caracteres: 101
