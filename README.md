@@ -3,7 +3,7 @@
 
 [![capa](https://media.discordapp.net/attachments/1063559719291199599/1200114082808872990/Thumb-Adafff.png?ex=65ce3ad6&is=65bbc5d6&hm=73ba2476bea25dd82035533bc19dbfc011eecc545c71eab974603027747ee957&=&format=webp&quality=lossless&width=1025&height=259)](https://github.com/SarahFeanor?tab=repositories)
 
-<sub> 🔗 Visite também >> [Portfólio de Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
+<sub> 🔗 Visite também >> [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience) e [Portfólio de Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
 
 # Projetos de Conclusão de Módulo do programa _Vem Ser Tech Dados_ - Ada Tech 
 
