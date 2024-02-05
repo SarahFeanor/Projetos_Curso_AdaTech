@@ -11,6 +11,9 @@ Bem-vindo(a) ao repositório de **projetos de conclusão de módulo**, criado co
 
 Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade **ética**. 
 
+
+# PROJETO
+
 ## MÓDULO 1 - Lógica da Programação I (PY) 
 ### [Projeto - Decodificador e Codififcador de Mensagens (PY)](https://github.com/SarahFeanor/Data_Modeling_Project_ADAtech) 
 - Neste projeto desenvolvemos um **codificador** e **decodificador** de mensagen com uma chave comum em Python.
