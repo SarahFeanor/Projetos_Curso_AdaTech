@@ -31,5 +31,5 @@ Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de d
 
 ## MÓDULO 5 - Estatística
 ### [Conteúdo Didático do Módulo](https://github.com/SarahFeanor/Projetos_Curso_AdaTech/tree/main/Downloads/Cursa_ADA_notesbooks/Modulo%2005%20-%20Estat%C3%ADstica)
-- No contexto deste módulo específico, é importante destacar que não foi implementado um projeto de conclusão de curso, diferenciando-se assim de outros módulos que comumente exigem essa etapa. Em vez disso, houve uma avaliação que centrou-se na compreensão e aplicação do conteúdo de estatística abordado durante o módulo.
+- No contexto deste módulo específico, é importante destacar que não foi implementado um projeto de conclusão de módulo. Em vez disso, houve uma avaliação que centrou-se na compreensão e aplicação do conteúdo de estatística abordado durante o módulo.
 
