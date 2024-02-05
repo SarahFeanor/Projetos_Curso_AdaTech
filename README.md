@@ -5,11 +5,31 @@
 
 <sub> 🔗 Visite também >> [Portfólio de Power BI](https://github.com/SarahFeanor/Portfolio_PowerBI) </sub>
 
-# Projetos de Conclusão de Módulo do Curso _Vem Ser Tech Dados_ - Ada Tech 
+# Projetos de Conclusão de Módulo do programa _Vem Ser Tech Dados_ - Ada Tech 
 
-Bem-vindo(a) ao meu repositório de **projetos de conclusão de módulo**, criado com o propósito de estudo. Aqui, compartilho projetos em grupo desenvolvidos para . 
+Bem-vindo(a) ao repositório de **projetos de conclusão de módulo**, criado com o propósito de estudo. Aqui, compartilho projetos em grupo desenvolvidos durante o curso de Análise de Dados do programa [_Vem Ser Tech Dados_](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) da intituição [Ada Tech](https://ada.tech/) (06/10/2023 a 15/03/2024). 
 
-Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade **ética**. 
+Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade **ética**. 
 
 ## Projetos
+
+## MÓDULO 1 - Lógica da Programação I (PY) 
+### [Projeto - Decodificador e Codififcador de Mensagens (PY)](https://github.com/SarahFeanor/Data_Modeling_Project_ADAtech) 
+- Criação de um **codificador** e **decodificador** de mensagen com uma chave comum em Python.
+    
+## MÓDULO 2 - Lógica da Programação II (PY) 
+### [Projeto - Sistema de Cadastro (PY)](https://github.com/SarahFeanor/Registration_System_Project_AdaTech) 
+- Nosso objetivo foi desenvolver um sistema de cadastro de pessoas com diversas funcionalidades. O nosso programa inicia com um menu que permite inserir, excluir, atualizar e exibir informações de usuários, além de mostrar todos os usuários cadastrados. Na inicialização, o programa lê um arquivo com usuários existentes, e ao sairmos, sobrescreve o arquivo com as modificações feitas.
+
+## MÓDULO 3 - Banco de Dados 
+### [Projeto - Modelagem de Banco de Dados em um Cenário Real](https://github.com/SarahFeanor/Data_Modeling_Project_ADAtech) 
+- Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada.
+
+## MÓDULO 4 - Técnicas de Programação (PY)
+### [Projeto - Análise Exploratória dos Dados do Airbnb - Paris](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech) 
+- Este projeto teve como foco a análise exploratória de dados relacionados à cidade de Paris, França, utilizando informações disponibilizadas pelo Inside Airbnb. O objetivo principal era extrair percepções e conhecimentos a partir desses dados, explorando aspectos relevantes do mercado de hospedagem na cidade. Utilizando bibliotecas python. 
+
+## MÓDULO 5 - Estatística
+### [Conteúdo Didático do Módulo](https://github.com/SarahFeanor/Projetos_Curso_AdaTech/tree/main/Downloads/Cursa_ADA_notesbooks/Modulo%2005%20-%20Estat%C3%ADstica)
+- No contexto deste módulo específico, é importante destacar que não foi implementado um projeto de conclusão de curso, diferenciando-se assim de outros módulos que comumente exigem essa etapa. Em vez disso, houve uma avaliação que centrou-se na compreensão e aplicação do conteúdo de estatística abordado durante o módulo.
 
