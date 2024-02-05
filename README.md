@@ -15,21 +15,25 @@ Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de d
 
 ## MÓDULO 1 - Lógica da Programação I (PY) 
 ### [Projeto - Decodificador e Codififcador de Mensagens (PY)](https://github.com/SarahFeanor/Data_Modeling_Project_ADAtech) 
-- Criação de um **codificador** e **decodificador** de mensagen com uma chave comum em Python.
+- Neste projeto desenvolvemos um **codificador** e **decodificador** de mensagen com uma chave comum em Python.
+- Professor: [Jorge Díaz](https://www.linkedin.com/in/jchambyd/)
     
 ## MÓDULO 2 - Lógica da Programação II (PY) 
 ### [Projeto - Sistema de Cadastro (PY)](https://github.com/SarahFeanor/Registration_System_Project_AdaTech) 
 - Nosso objetivo foi desenvolver um sistema de cadastro de pessoas com diversas funcionalidades. O nosso programa inicia com um menu que permite inserir, excluir, atualizar e exibir informações de usuários, além de mostrar todos os usuários cadastrados. Na inicialização, o programa lê um arquivo com usuários existentes, e ao sairmos, sobrescreve o arquivo com as modificações feitas.
+- Professor: [Henrique Assis](https://www.linkedin.com/in/henrique-assis-cordeiro-964748118/)
 
 ## MÓDULO 3 - Banco de Dados 
 ### [Projeto - Modelagem de Banco de Dados em um Cenário Real](https://github.com/SarahFeanor/Data_Modeling_Project_ADAtech) 
 - Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada.
+- Professor: [Jorge Díaz](https://www.linkedin.com/in/jchambyd/)
 
 ## MÓDULO 4 - Técnicas de Programação (PY)
 ### [Projeto - Análise Exploratória dos Dados do Airbnb - Paris](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech) 
-- Este projeto teve como foco a análise exploratória de dados relacionados à cidade de Paris, França, utilizando informações disponibilizadas pelo Inside Airbnb. O objetivo principal era extrair percepções e conhecimentos a partir desses dados, explorando aspectos relevantes do mercado de hospedagem na cidade. Utilizando bibliotecas python. 
+- Este projeto teve como foco a análise exploratória de dados relacionados à cidade de Paris, França, utilizando informações disponibilizadas pelo Inside Airbnb. O objetivo principal era extrair percepções e conhecimentos a partir desses dados, explorando aspectos relevantes do mercado de hospedagem na cidade. Utilizando bibliotecas python (Pandas e Numpy).
+- Professor: [Bruno Issamo](https://www.linkedin.com/in/bruno-issamo-7a977311a/)
 
 ## MÓDULO 5 - Estatística
 ### [Conteúdo Didático do Módulo](https://github.com/SarahFeanor/Projetos_Curso_AdaTech/tree/main/Downloads/Cursa_ADA_notesbooks/Modulo%2005%20-%20Estat%C3%ADstica)
 - No contexto deste módulo específico, é importante destacar que não foi implementado um projeto de conclusão de módulo. Em vez disso, houve uma avaliação que centrou-se na compreensão e aplicação do conteúdo de estatística abordado durante o módulo.
-
+- Professor: [Wenderson Alexandre](https://www.linkedin.com/in/wenderson-alexandre-s-s-perfe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
