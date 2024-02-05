@@ -7,7 +7,7 @@
 
 ## Projetos de Conclusão de Módulo do programa _Vem Ser Tech Dados_ - Ada Tech 
 
-Bem-vindo(a) ao repositório de **projetos de conclusão de módulo**, criado com o propósito de estudo. Aqui, compartilho projetos em grupo desenvolvidos durante o curso de Análise de Dados do programa [_Vem Ser Tech Dados_](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) da intituição [Ada Tech](https://ada.tech/) (06/10/2023 a 15/03/2024). 
+Bem-vindo(a) ao repositório de **projetos de conclusão de módulo**, criado com o propósito de estudo. Aqui, compartilho projetos em grupo desenvolvidos durante o curso de **Análise de Dados** do programa [_Vem Ser Tech Dados_](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) da intituição [Ada Tech](https://ada.tech/) (06/10/2023 a 15/03/2024). 
 
 Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade **ética**. 
 
