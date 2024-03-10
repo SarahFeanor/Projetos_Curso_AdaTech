@@ -37,3 +37,8 @@ Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de d
 ### [Conteúdo Didático do Módulo](https://github.com/SarahFeanor/Projetos_Curso_AdaTech/tree/main/Downloads/Cursa_ADA_notesbooks/Modulo%2005%20-%20Estat%C3%ADstica)
 - No contexto deste módulo específico, é importante destacar que não foi implementado um projeto de conclusão de módulo. Em vez disso, houve uma avaliação que centrou-se na compreensão e aplicação do conteúdo de estatística abordado durante o módulo.
 - Professor: [Wenderson Alexandre](https://www.linkedin.com/in/wenderson-alexandre-s-s-perfe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+## MÓDULO 6 - Visualização de Dados Com Power BI
+### [Projeto]() 
+- Em anfamento...
+- Professor: [Bruno Trindade Bragança](https://www.linkedin.com/in/brunotrbr/)
