@@ -40,5 +40,5 @@ Vale ressaltar que todos os dados usados aqui são exclusivamente para fins de d
 
 ## MÓDULO 6 - Visualização de Dados Com Power BI
 ### [Projeto]() 
-- Em anfamento...
+- Em andamento...
 - Professor: [Bruno Trindade Bragança](https://www.linkedin.com/in/brunotrbr/)
