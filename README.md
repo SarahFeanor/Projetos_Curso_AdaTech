@@ -1,4 +1,4 @@
-![image](https://github.com/SarahFeanor/Projetos_Curso_AdaTech/assets/86063513/52d302f6-7b4d-41dd-b3e1-948f6b671cfa)[![Linkedin Badge](https://img.shields.io/badge/-SarahFR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfrezende/)](https://www.linkedin.com/in/sarahfrezende/) 
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:sarahfrezende@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 [![capa](https://media.discordapp.net/attachments/1063559719291199599/1200114082808872990/Thumb-Adafff.png?ex=660599d6&is=65f324d6&hm=a02154f96fe65d8f6eed316437c383475fc803e17d7abd93490ac89a56735774&=&format=webp&quality=lossless&width=998&height=251)](https://github.com/SarahFeanor?tab=repositories)
